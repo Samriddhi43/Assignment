@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>Resume</title>
+    </head>
+    <body>
+        <h1 align="center">Resume</h1>
+        <p><b>Name:<br> Eamil id:<br> Mobile no:</b></p> 
+        <hr>
+        <p><strong>Academic Qualification</strong></p>
+        <table>
+            <tr>
+                <th>Sr.No.</th>
+                <th>Institute Board</th>
+                <th>/University</th>
+                <th>Percentage</th>
+            </tr>
+            <tr>
+                <td>1.</td>
+                <td>Gopaldas institude of Technology</td>
+                <td>-</td>
+                <td>100%</td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Maharaja institude of Technology</td>
+                <td>-</td>
+                <td>101%</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Abhishek shek ji institude of Technology</td>
+                <td>-</td>
+                <td>101%</td>
+            </tr>
+        </table>
+        <dl><b>Projects</b></dl>
+        <ul>
+            <li>Project Name : <b>Online Exam</b></li>
+            <li>Technology Used : <b>Python</b></li>
+            <li>Database : <b>MySQI</b></li>
+            <li><b>Project Description</b> : Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos, cum earum suscipit deserunt debitis, perspiciatis quis velit fuga sapiente aspernatur eveniet rem magni sit nulla, cumque neque delectus dolorem. Optio. </li>
+        </ul>
+        <ul>
+            <li>Project Name : <b> Online Exam</b></li>
+            <li>Technology Used : <strong>Python</strong></li>
+            <li>Database : <b>MySQI</b></li>
+            <li><b>Project Description</b> : Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur a optio officiis eveniet qui. Autem at nobis maxime a molestiae.</li>
+        </ul>
+        <p><b>Technical Skills</b>
+            <ul>
+                <li>Operating system :</li>
+                <li>Language Known :</li>
+                <li>Web Technology :</li>
+                <li>Database :</li>
+            </ul>
+    </body>
+</html> 
