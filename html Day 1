@@ -1,0 +1,27 @@
+<style>
+h1{
+    color: rgb(143, 53, 12);
+}
+</style>
+
+<!--Day 1 html-->
+ 
+<!DOCTYPE html>
+<html>
+<head>
+    <title> DAY 1 html </title>
+</head>
+<body bgcolor="#E35B3E"> 
+
+<h1 align="center"> Leave letter </h1> <hr> 
+<p>Sundari roy <br> DNT Bangalore <br>sec 3, paharganj</p>
+<p>28<sup>th</sup> June 2018</p>
+<p>The Principal<br> Maharaja Institute of technology <br> Valachil, Bangalore sec 3, paharganj </p>
+<p>Dear Principal,</p>
+<p>Subject: Request letter for giving 1 Month leave</p>
+<p>Respected sir,</p>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque dolorum accusantium rerum nisi deserunt facilis animi numquam incidunt quibusdam eveniet delectus impedit, enim sit a odio atque officia ipsa natus saepe nihil. Numquam, suscipit. Voluptatibus omnis laudantium sint necessitatibus consectetur.</p>
+<p>Thank you for your kind attention regarding the matter. If you need to contact me, T have given my mobile number below.</p>
+<p>Sincerely, <br> Sundari Roy <br> Mobile No. 12134567</p>
+</body>
+</html>
