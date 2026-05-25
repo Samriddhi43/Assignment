@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Attribute</title>
+    <style>
+        body{
+            background-color: rgba(106, 112, 110, 0.911);
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <h2 align="center"><u>HTML WORLD</u></h2>
+    <h3>INTRODUCTION TO HTML</h3>
+    <p><mark>HTML ICON IMAGE</mark></p>
+    <img src="/IMAGE/html51.jpg" alt="Error" height="150px" width="300px">
+    <p><strong>HTML learning resourses Link</strong></p>
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank"><b><em>w3schools</em></b></a><br>
+    <a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank">Code with mosh</a><br>
+    <a href="https://overapi.com/static/cs/html-cheat-sheet.pdf" target="_blank">html-cheat-sheet</a><br><br>
+
+    <h3>Introduction to HTML:-</h3>
+
+    <p><b>(i) What is HTML?</b></p>
+    <p>HTML (Hyper Text Markup Language) is a web-based  language that tells your browser how to showcase text and images on a webpage. You use tags to indicate the various elements, determine the placement of paragraphs, headings, add images and videos.</p>
+
+    <p><b>Why we learn Html?</b></p>
+    <ol type="a">
+        <li>You'll Have the Ability to Create Unique Websites</li>
+        <li>Learn Other Coding Languages Easier and Faster</li>
+        <li>You Can Make More Money</li>
+        <li>Make your content easy to digest</li>
+    </ol>
+
+    <p><b>What are the versions of HTML?</b></p>
+    <p>Since its launch in 1990, HTML has had five versions to date.<br>
+        HTML - the original version published in 1990.<br>
+        HTML 2 - published on November 24, 1995.<br>
+        HTML 3 - published on January 14, 1997.<br>
+        HTML 4 - published on December 18,1997.<br>
+        And the most recent and most important one - HTML 5.</p>
+    
+
+</body>
+</html>
