@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>signup</title>
+    <link rel="icon" href="/IMAGE/ICON/login.png" title="login icons" />
+    <style>
+      form {
+        text-align: center;
+      }
+      h3 {
+        text-align: center;
+        font-size: 30px;
+      }
+      body {
+        background-image: url("/IMAGE/RANDOM/Gradiant\ image\ 3.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+      }
+      p {
+        text-align: center;
+        font-size: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>CREATE AN ACCOUNT</h3>
+    <p>Start with your free account today</p>
+    <form>
+      <input
+        type="text"
+        name="Username"
+        placeholder="Username"
+        required
+        style="height: 30px; width: 300px"
+      /><br /><br />
+      <input
+        type="Email"
+        name="Email"
+        placeholder="Email"
+        required
+        style="height: 30px; width: 300px"
+      /><br /><br />
+      <input
+        type="password"
+        name="Password"
+        placeholder="Password"
+        required
+        style="height: 30px; width: 300px"
+      /><br /><br />
+      <input
+        type="password"
+        name="Confirm Password"
+        placeholder="Confirm Password"
+        required
+        style="height: 30px; width: 300px"
+      /><br /><br />
+      <input type="checkbox" value="checkbox" />I agree to the
+      <a
+        href="https://www.iubenda.com/en/terms-and-conditions-generator?utm_source=adwords&utm_medium=ppc&utm_campaign=aw_general_restoftheworld_exact&utm_term=&utm_content=0"
+        target="blank"
+        ><u>Terms of Service</u></a
+      >
+      and
+      <a
+        href="https://www.iubenda.com/en/terms-and-conditions-generator?utm_source=adwords&utm_medium=ppc&utm_campaign=aw_general_restoftheworld_exact&utm_term=&utm_content=0"
+        target="blank"
+        >Privacy Policy </a
+      ><br /><br />
+      <button style="height: 40px; width: 310px">Sign Up</button><br /><br />
+      <p>
+        Already have an account?
+        <a
+          href="https://www.iubenda.com/en/terms-and-conditions-generator?utm_source=adwords&utm_medium=ppc&utm_campaign=aw_general_restoftheworld_exact&utm_term=&utm_content=0"
+          target="blank"
+          ><u>Sign in</u></a
+        >
+      </p>
+    </form>
+    <p>&#169; Copyright 2021, All right reserved.</p>
+    <i class="fa-brands fa-google"></i>
+  </body>
+</html>
