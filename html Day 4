@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>Style Attribute</title>
+    </head>
+    <body style="border: 2px solid rgb(19, 22, 3); background-image: linear-gradient(rgb(232, 241, 101), rgb(126, 128, 51));">
+        <p style="text-align: center; color: rgb(92, 74, 16); font-size: 25px;font-family: Georgia, 'Times New Roman', Times, serif;">Sunrise Public School Gurugram <br> NOTICE</p>
+        <p style="font-size: 20px; color:rgb(112, 112, 14);">16<sup>th</sup>November 20XX</p>
+        <p style="text-align: center; color: rgb(112, 112, 14); font-size: 20px;font-family: Georgia, 'Times New Roman', Times, serif;">Drawing and Painting Competition</p><br>
+        <p style="text-align: center; font-size: 20px; color: rgb(112, 112, 14);font-family: Georgia, 'Times New Roman', Times, serif;">This is to inform that the Arts Club of the school is going to organize a drawing and painting competition from the 20<sup>th</sup> instant.<br> All the students are requested to display their drawings and paintings in the exhibition Hall of the School. The interested candidates may please submit their names to the undersigned latest by the 18<sup>th</sup>November.</p><br>
+        <p style="font-size: 20px; color: rgb(112, 112, 14);font-family: Georgia, 'Times New Roman', Times, serif;">Satyam (Secretary)<br> Arts Clubs A</p>
+    </body>
+</html>
+
+<!-- 1. color
+2. background-color
+3. Border 
+4. Font-style
+
+I. FONT - STYLE
+(i)   Font - Family : 'Franklin' ; 'Arial Narrow'
+(ii)  Font - size : 32px;
+(iii) Font - weight : bold;
+(iv) line - height : 1.3em;
+(v)  Font - style : italic;
+
+II. COLOR :- text-color
+(i)   Color by Name
+(ii)  Color by rbg
+(iii) Color by hex value
+
+III. BACKGROUND-COLOR
+(i)   background-color: Red;    | 1. height   | 2. width
+
+IV. BORDER :- 4px solid green;
+(i)   border - color: green
+(ii)  border-style:solid
+(iii) border-width:4px;
+(iv)  border-radius:30px;
+
+(V). text-align-->
+
+<!-- background-image: linear-gradient(rgb(232, 241, 101), rgb(111, 112, 65)) -->
+
+
+
+
+
+
+
+
+
+
