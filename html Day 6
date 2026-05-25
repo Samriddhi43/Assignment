@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>HTML QUOTATION</title>
+    <style>
+      #Quotation {
+        padding-left: 100px;
+        padding-right: 100px;
+        color: rgb(97, 21, 21);
+        font-size: 22px;
+        text-align: center;
+      }
+      div {
+        margin: auto;
+        padding-left: 15px;
+        padding-right: 15px;
+        background-color: rgba(192, 152, 100, 0.794);
+      }
+      abbr {
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body style="background-color: rgb(228, 190, 95)">
+    <h2 style="text-align: center"><u>QUOTATION</u></h2>
+    <div style="border: 2px solid rgb(161, 55, 12); width: 500px">
+      <span id="Quotation"><b>HTML QUOTATION TAGS EXAMPLE</b></span>
+      <p><b>Address Tag</b></p>
+      <blockquote>
+        <address>
+          123,House<br />
+          Hill , New Road<br />
+          HTML<br />
+          <b>Contact US</b><br />
+          Contact No:
+          <a href="tel:1234567890">1234567890</a><br />
+          EmailID:
+          <a href="mailto: karljohn298@gmail.com">karljohn298@gmail.com</a>
+        </address>
+      </blockquote>
+      <p>
+        <cite
+          ><q>Actions speak louder than words</q> | Let your words teach and
+          your actions speak</cite
+        >
+        :- instead of just talking about doing something, it's more meaningful
+        if a person actually does something. <br /><br />Written by
+        <i>Abraham Lincoln</i>
+      </p>
+
+      <p><b>Abbreviation Tag</b></p>
+
+      <p>
+        The Phrase was 1<sup>st</sup> used in the form we use today in the
+        <abbr title="United States">US</abbr> written by
+        <abbr title="Abraham Linclon">A.L.</abbr>
+      </p>
+
+      <p><b>Always feel motivated!</b></p>
+    </div>
+  </body>
+</html>
